@@ -139,16 +139,6 @@ Case gereği AI özellikleri simüle edilmiştir:
 
 ---
 
-## Daha Fazla Zaman Olsaydı
-
-* Gerçek AI entegrasyonu (LLM + document parsing)
-* WebSocket / SSE ile real-time claim güncellemeleri
-* Daha gelişmiş error handling ve retry mekanizmaları
-* Unit ve integration testler (özellikle registry ve store için)
-* i18n desteği
-* PWA desteği (offline kullanım ve install edilebilirlik)
-
----
 
 ## Kullanılan AI Araçları
 
