@@ -1,4 +1,4 @@
-# AI Destekli Hasar Süreci Orkestratörü
+# AI Destekli Hasar Süreci Takibi
 
 Bu proje, verilen case study kapsamında sigorta hasar sürecini kullanıcıya şeffaf, etkileşimli ve aksiyon odaklı şekilde sunan bir dashboard uygulamasıdır.
 
